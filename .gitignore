@@ -20,5 +20,5 @@ project
 /out
 .project
 .classpath
-.mp4
-.tgz
+*.mp4
+*.tgz
